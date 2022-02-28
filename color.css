@@ -9,7 +9,7 @@ body
     display: flex;
     justify-content: center;
     align-items: center;
-    background: black ;
+    background: #333 ;
     min-height: 100vh;
 }
 label
